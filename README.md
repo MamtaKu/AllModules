@@ -3,6 +3,12 @@
 [LLD3.txt](https://github.com/user-attachments/files/25087585/LLD3.txt)
 [LLD2.txt](https://github.com/user-attachments/files/25087584/LLD2.txt)
 [LLD4.txt](https://github.com/user-attachments/files/25087657/LLD4.txt)
+[CG_NOV_2025_30044930_Payslip.pdf](https://github.com/user-attachments/files/25459107/CG_NOV_2025_30044930_Payslip.pdf)
+
+[CG_DEC_2025_30044930_Payslip.pdf](https://github.com/user-attachments/files/25459108/CG_DEC_2025_30044930_Payslip.pdf)
+[CG_JAN_2026_30044930_Payslip.pdf](https://github.com/user-attachments/files/25459112/CG_JAN_2026_30044930_Payslip.pdf)
+
+
 Project Module Curriculum
 -> Version Control -> Git
 -> Spring Boot -> MVC
